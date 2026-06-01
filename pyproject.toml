@@ -1,0 +1,15 @@
+[project]
+name = "stokes_mueller"
+version = "0.1.0"
+description = "Polarization state simulation using the Stokes-Mueller formalism."
+dependencies = [
+    "numpy>=2.3.4",
+    "scipy>=1.16.3",
+    "sympy>=1.14.0",
+    "refractiveindex>=1.0.2",
+    "matplotlib>=3.10.7"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
