@@ -30,8 +30,8 @@ Stokes Parameters sign formalism:
         positive: Degree of LP in a plane rotated +45° to the p-plane
         negative: Degree of LP in a plane rotated -45° to the p-plane
     S3: 
-        positive: Degree of LCP
-        negative: Degree of RCP
+        positive: Degree of RCP
+        negative: Degree of LCP
 
 Main API
 --------
